@@ -1,0 +1,5 @@
+.venv
+.ipynb_checkpoints
+
+*.log
+salesfarma_consolidado_sg.csv
